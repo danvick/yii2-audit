@@ -31,13 +31,15 @@
       "email": "maz.webfreelance@gmail.com"
     }
   ],
+"minimum-stability": "dev",
   "require": {
     "php": ">=7.2.0",
     "ext-bcmath": "*",
     "yiisoft/yii2": ">=2.0.0 <2.1.0",
     "yiisoft/yii2-debug": ">=2.1.0 <2.2.0",
     "2amigos/yii2-chartjs-widget": ">=2.0.1 <3.0.0",
-    "phpspec/php-diff": "1.*"
+    "phpspec/php-diff": "1.*",
+    "yiisoft/yii2-bootstrap": "2.0.x-dev"
   },
   "repositories": [
     {
