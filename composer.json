@@ -1,5 +1,5 @@
 {
-  "name": "mazfreelance/yii2-audit",
+  "name": "danvick/yii2-audit",
   "description": "Yii2 Audit records and displays web/cli requests, database changes, php/js errors and associated data.",
   "keywords": [
     "yii2",
